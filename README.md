@@ -20,8 +20,7 @@ Remark: Steps 1-3 is already implemented and running. The rest needs to follow.
 ## Features of the bot:
 Since I made this bot for private use with my friends I've already implemented some kind of trackable bonussystem. Each participation will give you 
 points. Each ranking in tournaments gives you points whereas better rankings gain more points. These points are collected and saved to the according
-chatID of each user (in a bigger scale this is annonymous, right now though I know which chatID belongs to whom^^). This allows me to do statistic graphs
-and have even more fun. 
+chatID of each user (in a bigger scale this is annonymous, right now though I know which chatID belongs to whom^^). This allows me to do some kind of "global" ranking which should be fun. 
 Furthermore there is a statistics about wins, draws and losses for each team/player.
 
 To the more technical features: </br>
